@@ -4,7 +4,7 @@
 - 建立PR
 
 ## 範例
-本專案已有一個範例資料夾 C12345566，請進入閱讀 README.md 檔，並對自已要合併的專案新增說明檔 README.md
+本專案已有一個範例資料夾 [C12345566]("https://github.com/pychang-ai/112-1_web_hw2_js_game.github.io/tree/main/C12345566)，請進入閱讀 README.md 檔，並對自已要合併的專案新增說明檔 README.md
 
 ## 期限
 2023年1月7日以後專案關閉
