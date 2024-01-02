@@ -7,4 +7,7 @@
 本專案已有一個範例資料夾 [C12345566](https://github.com/pychang-ai/112-1_web_hw2_js_game.github.io/tree/main/C12345566)，請進入閱讀 README.md 檔，並對自已要合併的專案新增說明檔 README.md
 
 ## 期限
-本專案將於2023年1月9日以後完成合併並關閉。
+本專案將於2023年1月12日以後完成合併並關閉。
+
+## 教學影片
+https://drive.google.com/drive/folders/1WPd6s5Wc5GnfmMabsSK3iSUfqjqbZAtr?usp=drive_link
